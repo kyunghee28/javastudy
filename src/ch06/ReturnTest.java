@@ -17,6 +17,7 @@ public class ReturnTest {
         return a+b;
     }
 
+    // 참조형 매배변수를 활용하면 반환값이 없어도 메서드의 실행결과를 얻어 올 수 있다.
     void add(int a, int b, int[] result){
         result[0] = a+b;    // 매개변수로 넘겨받은 배열에 연산결과를 저장
     }
