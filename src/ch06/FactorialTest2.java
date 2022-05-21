@@ -13,6 +13,7 @@ public class FactorialTest2 {
 
             if(result == -1) {
                 System.out.printf("유효하지 않은 값입니다. (0<n<=20) : %d%n", n);
+
                 break;
             }
 
