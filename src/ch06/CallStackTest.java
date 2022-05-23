@@ -1,4 +1,3 @@
-package ch06;
 
 // 객체를 생성하지 않고도 메소드를 호출할 수 있으려면, 메서드 앞에 static 을 붙여야 한다.
 public class CallStackTest {
