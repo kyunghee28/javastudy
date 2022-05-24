@@ -38,3 +38,6 @@ public class TVCR extends Tv{
 		vcr.ff();
 	}
 }
+
+// 자바는 다중 상속을 지원하지 않으므로 Tv클래스를 부모클래스로 하고 
+// VCR클래스는 TVCR쿨래스에 포함시켰다.
