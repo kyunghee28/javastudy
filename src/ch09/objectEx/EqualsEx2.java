@@ -22,7 +22,7 @@ class Person {
 	long id;
 	
 	public boolean equals(Object obj) {
-		if(obj != null && obj instanceof Person)
+		if(obj != null && obj instanceof Person) 
 			// obj가  Object타입이므로 id 값을 참조하기 위해서는 Person타입으로 형변환이 필요
 			return id == ((Person)obj).id;
 		else
