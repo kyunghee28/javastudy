@@ -11,6 +11,7 @@ public class CalendarEx7 {
     static void  ex7(String[] args) {
         if(args.length != 2){
             System.out.println("Usage : java CalendarEx7");
+
             return;
         }
 
