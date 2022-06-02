@@ -1,4 +1,4 @@
-package ch10.Calendar_Date;
+package Calendar_Date;
 import java.util.Calendar;
 
 // 년과 월 계산

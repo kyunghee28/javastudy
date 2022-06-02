@@ -1,4 +1,4 @@
-package ch10.Calendar_Date;
+package Calendar_Date;
 import java.util.Calendar;
 
 // 첫주와 마지막 주가 이전달,이후달과 연결되도록

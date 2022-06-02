@@ -1,4 +1,4 @@
-package ch10.Calendar_Date;
+package Calendar_Date;
 
 // 날짜계산을 하기 위한 메서드 구현
 public class CalendarEx9 {
